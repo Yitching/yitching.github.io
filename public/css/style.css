@@ -34,20 +34,6 @@ body {
     }
 }
 
-#yes-button {
-    margin: 0 10px;
-    color: white;
-    border: none;
-    background-color: green;
-    cursor: pointer;
-    height: 40px;
-
-    p {
-        margin: 0;
-        object-fit: contain;
-    }
-}
-
 /* Make responsive for mobile */
 @media (max-width: 768px) {
     body {
